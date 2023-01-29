@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Veronica.
 
 <!--
 **vramirez2022/vramirez2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 You can reach me in git hub.
 - ⚡ Fun fact: I love astrology and the stars.
 -->
+SKILSS
+HTML 5
+CSS 3
+JS
