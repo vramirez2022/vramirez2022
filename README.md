@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Veronica.
+### Hi there 👋 my name is Veronica. Currently enrolled in a FullStack Development course with Knowledgehut. 
 
 <!--
 **vramirez2022/vramirez2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
