@@ -17,4 +17,4 @@ HTML 5
 CSS 3
 JS
 
-<p align="left"> <img src="https://spaceplace.nasa.gov/gallery-space/en/"/> </p>
+<p align="left"> <img src="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1940a.jpg" alt="Veronica"/> </p>
