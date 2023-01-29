@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love astrology and the stars.
 -->
 SKILSS
-HTML 5
+<p alight="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/> </p>
+
 CSS 3
 JS
 
