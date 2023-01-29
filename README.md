@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love astrology and the stars.
 -->
 SKILSS
-<p alight="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" font-size: 10px; alt="HTML5"/> </p>
+<p alight="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg font-size: 10px"; alt="HTML5"/> </p>
 
 CSS 3
 JS
