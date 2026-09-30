@@ -1,4 +1,4 @@
-<h1> Hi there 👋 my name is Veronica. Currently enrolled in a FullStack Development course with Knowledgehut. </h1>
+<h1> Hi there 👋 my name is Veronica. I am a SOC & Operations: Security log analysis, threat detection, web attack vector investigation, and alert triage.
 
 <!--
 **vramirez2022/vramirez2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
