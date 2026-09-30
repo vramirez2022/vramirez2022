@@ -22,6 +22,6 @@ style="width: 100px; height: 100px;"> </div>
 <p align="left"> <img src="http://www.nasa.gov/sites/default/files/thumbnails/image/potw1940a.jpg" alt="Veronica"/> </p>
 
 SOCIAL
-<div> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt"linkedin" style="width: 100px; height: 100px;">
-  </div> 
-           
+<div>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" style="width: 100px; height: 100px;">
+</div>
